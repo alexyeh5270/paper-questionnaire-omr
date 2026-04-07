@@ -39,6 +39,11 @@ pip install -r requirements.txt
 
 ```
 
+4. **Deactivate the Virtual Environment:**
+```bash
+deactivate
+```
+
 
 ## Running the Pipeline
 
